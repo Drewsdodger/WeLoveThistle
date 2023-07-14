@@ -1,0 +1,9 @@
+body {background-color: black;}
+H1 {color: white;}
+H2 {color: white;}
+H3 {color: white;}
+P {color: white;}
+p { font-family: Arial; font-size:10 }
+ .small-text {font-size: 17px;}
+pre {
+  text-align: top;}
